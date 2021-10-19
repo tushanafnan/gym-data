@@ -1,0 +1,57 @@
+[{
+        "id": 1,
+        "name": "Whey Protein",
+        "producer": "Whey and Co.",
+        "url": "https://radiustheme.com/demo/wordpress/gymedge/wp-content/uploads/2017/01/product_09-300x300@2x.jpg",
+        "price": 45
+    },
+    {
+        "id": 2,
+        "name": "Pull Curl Machine",
+        "producer": "Health Org",
+        "url": "https://radiustheme.com/demo/wordpress/gymedge/wp-content/uploads/2017/01/product_02-300x300@2x.jpg",
+        "price": 1000
+    },
+    {
+        "id": 3,
+        "name": "Air Tight Water Bottle",
+        "producer": "Mr. Shamson and Co",
+        "url": "https://radiustheme.com/demo/wordpress/gymedge/wp-content/uploads/2017/01/product_07-300x300@2x.jpg",
+        "price": 12
+    },
+    {
+        "id": 4,
+        "name": "Sit Up Machine",
+        "producer": "Health Org",
+        "url": "https://radiustheme.com/demo/wordpress/gymedge/wp-content/uploads/2017/01/product_1121-300x300@2x.jpg",
+        "price": 870
+    },
+    {
+        "id": 5,
+        "name": "Nutritech Protein",
+        "producer": "Whey and Co.",
+        "url": "https://radiustheme.com/demo/wordpress/gymedge/wp-content/uploads/2017/01/product_08-280x230.jpg",
+        "price": 60
+    },
+    {
+        "id": 6,
+        "name": "Gym Suite",
+        "producer": "Adidas",
+        "url": "https://radiustheme.com/demo/wordpress/gymedge/wp-content/uploads/2017/01/product_05-280x230.jpg",
+        "price": 75
+    },
+    {
+        "id": 7,
+        "name": "Running Shoe",
+        "producer": "Nike",
+        "url": "https://radiustheme.com/demo/wordpress/gymedge/wp-content/uploads/2017/01/product_03-280x230.jpg",
+        "price": 80
+    },
+    {
+        "id": 8,
+        "name": "Gym Bag",
+        "producer": "Noxia",
+        "url": "https://radiustheme.com/demo/wordpress/gymedge/wp-content/uploads/2017/01/product_11-280x230.jpg",
+        "price": 30
+    }
+]
