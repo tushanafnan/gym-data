@@ -2,6 +2,7 @@
         "id": 1,
         "name": "Whey Protein",
         "producer": "Whey and Co.",
+        "details": "Whey protein is the protein from whey, the watery portion of milk that separates from the curds when making cheese. It is commonly used as a protein supplement. Whey protein might improve the nutrient content of the diet and also have effects on the immune system.People commonly use whey protein for improving athletic performance and increasing strength. Whey protein is also used for asthma, diabetes, weight loss, and many other conditions, but there is no good scientific evidence to support most of these uses.",
         "url": "https://radiustheme.com/demo/wordpress/gymedge/wp-content/uploads/2017/01/product_09-300x300@2x.jpg",
         "price": 45
     },
@@ -9,6 +10,7 @@
         "id": 2,
         "name": "Pull Curl Machine",
         "producer": "Health Org",
+        "details": "chin-ups are the bigger compound lift, they allow us to load our biceps far heavier, and they use a larger overall range of motion. On the other hand, biceps curls are lighter, yes, but they’re limited purely by the strength of our biceps. And even though curls have a smaller range of motion overall, the range of motion for our biceps is quite a bit larger. Which lift winds up being best for biceps growth?Then we need to consider that our muscles grow best when they’re challenged in a stretched position (meta-analysis). So the next thing to compare is the strength curve of both chin-ups and biceps curls. How challenging are they at different parts of the range of motion? Finally, what’s the best way to min-max both chin-ups and biceps curls for even better biceps growth? What variations and grip positions should we be using? What rep ranges should we be lifting in? What should our training volume be? In this article, we’ll compare the chin-up against the curl for biceps growth, and then talk about how to build a biceps bulking routine around them.",
         "url": "https://radiustheme.com/demo/wordpress/gymedge/wp-content/uploads/2017/01/product_02-300x300@2x.jpg",
         "price": 1000
     },
@@ -16,6 +18,7 @@
         "id": 3,
         "name": "Air Tight Water Bottle",
         "producer": "Mr. Shamson and Co",
+        "details": "When you’re exercising and pushing your body to its limit, it’s incredibly important to stay hydrated and that’s where our collection of water bottles and hydration comes in handy. Reusable water bottles are also miles better for the environment than single use plastics, so do your bit for the environment and your back pocket with a new water bottle. We have metal water bottles as well as classic plastic sports bottles and protein shakers from many reliable brands, while keen runners will appreciate our handheld running water bottles. Pick from Nike, Camelbak, Everlast, USA Pro and many more big names.",
         "url": "https://radiustheme.com/demo/wordpress/gymedge/wp-content/uploads/2017/01/product_07-300x300@2x.jpg",
         "price": 12
     },
@@ -23,6 +26,7 @@
         "id": 4,
         "name": "Sit Up Machine",
         "producer": "Health Org",
+        "details": "Performing sit ups regularly can help to improve core strength but this does not target fat loss to this body part. Fat loss cannot be targeted but it can be achieved through a calorie deficit (ie. expending more energy than you are consuming).",
         "url": "https://radiustheme.com/demo/wordpress/gymedge/wp-content/uploads/2017/01/product_1121-300x300@2x.jpg",
         "price": 870
     },
@@ -30,6 +34,7 @@
         "id": 5,
         "name": "Nutritech Protein",
         "producer": "Whey and Co.",
+        "details": "Whey protein is the protein from whey, the watery portion of milk that separates from the curds when making cheese. It is commonly used as a protein supplement. Whey protein might improve the nutrient content of the diet and also have effects on the immune system.People commonly use whey protein for improving athletic performance and increasing strength. Whey protein is also used for asthma, diabetes, weight loss, and many other conditions, but there is no good scientific evidence to support most of these uses.",
         "url": "https://radiustheme.com/demo/wordpress/gymedge/wp-content/uploads/2017/01/product_08-280x230.jpg",
         "price": 60
     },
@@ -37,6 +42,7 @@
         "id": 6,
         "name": "Gym Suite",
         "producer": "Adidas",
+        "details": "Wash your gym jacket in cold water, turning inside out to wipe off sweat, odor, and germs thoroughly. 2. Wash them like fabrics. 3. Do not repeat the same wear as it can accumulate more bacteria due to sweat and odor. 4. Wash your gym jacket soon after wearing it to maintain the fabric.",
         "url": "https://radiustheme.com/demo/wordpress/gymedge/wp-content/uploads/2017/01/product_05-280x230.jpg",
         "price": 75
     },
@@ -44,6 +50,7 @@
         "id": 7,
         "name": "Running Shoe",
         "producer": "Nike",
+        "details": "sRunning shoes protect your feet when pounding the pavement over and over again. Where a training shoe helps with side-to-side movement, running shoes help with forward movement. Running shoes also provide more cushioning and support, which often translates into a higher heel dro",
         "url": "https://radiustheme.com/demo/wordpress/gymedge/wp-content/uploads/2017/01/product_03-280x230.jpg",
         "price": 80
     },
@@ -51,6 +58,7 @@
         "id": 8,
         "name": "Gym Bag",
         "producer": "Noxia",
+        "details": "Technically, a gym bag is designed for transporting necessities to and from a fitness center, studio or gym. Today, however, gym bags are used for so much more. They can double as an airline carry-on bag, overnight bag, backpack hiking, or anywhere else active people go with items to carry.",
         "url": "https://radiustheme.com/demo/wordpress/gymedge/wp-content/uploads/2017/01/product_11-280x230.jpg",
         "price": 30
     }
